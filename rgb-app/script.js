@@ -71,6 +71,7 @@ function updateFromPicker() {
 
     updateColor();
 }
+// Comentario de prueba
 
 // Eventos
 red.addEventListener("input", updateFromSliders);
